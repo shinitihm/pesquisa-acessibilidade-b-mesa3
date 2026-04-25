@@ -28,7 +28,7 @@
 
 **Apple** APPLE. Apple Accessibility: Recursos integrados como VoiceOver e AssistiveTouch. Disponível em: [https://www.apple.com/accessibility/](https://www.apple.com/accessibility/). Acesso em: 25 abr. 
 
-**Google** GOOGLE. Práticas de acessibilidade e ferramentas para desenvolvedores (Lighthouse). Disponível em: [https://developers.google.com/accessibility](https://developers.google.com/accessibility). Acesso em: 25 abr. 
+**Google** GOOGLE. Práticas de acessibilidade e ferramentas para desenvolvedores (Lighthouse). Disponível em: [https://developers.google.com/accessibility](https://www.google.com/intl/pt-BR/accessibility/for-developers/). Acesso em: 25 abr. 
 
 **IBM** IBM. Design inclusivo e acessibilidade (IBM Able). Disponível em: [https://www.ibm.com/able](https://www.ibm.com/able). Acesso em: 25 abr. 
 
