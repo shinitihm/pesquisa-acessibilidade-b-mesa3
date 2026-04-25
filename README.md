@@ -3,9 +3,9 @@ Investigação técnica sobre o panorama da acessibilidade digital, analisando o
 
 ## O que descobrimos (Principais Achados)
 * **O custo da negligência é real e alto:** Empresas como a ENEL (Brasil) e Vueling Airlines (Espanha) sofreram multas que variam de €90.000 a R$ 1,2 milhão por falhas graves de acessibilidade em seus portais. *(Fonte: MPCE / Accessible EU Centre)*.
-* **Shift-Left como padrão de excelência:** Líderes de mercado como Microsoft e Apple não tratam acessibilidade como um "recurso extra", mas como parte da arquitetura básica do produto (Inclusive Design), o que reduz custos de manutenção e evita processos judiciais. *(Fonte: Pesquisa Heitor / Microsoft Accessibility)*.
-* **Complexidade técnica vs. Semântica:** O aumento da complexidade de frameworks e bibliotecas modernas é uma das principais causas de barreiras digitais, conforme o relatório WebAIM Million, que aponta erros básicos em 96% dos sites. *(Fonte: WebAIM Million / Pesquisa Julio)*.
-* **Lacunas na acessibilidade nacional:** Empresas brasileiras analisadas apresentam maturidade parcial; enquanto a JBS RI foca em acessibilidade visual e motora, o PicPay prioriza o atendimento humano em Libras, mas carece de recursos de interface assistiva no app/site. *(Fonte: Pesquisa Pedro)*.
+* **Shift-Left como padrão de excelência:** Líderes de mercado como Microsoft e Apple não tratam acessibilidade como um "recurso extra", mas como parte da arquitetura básica do produto (Inclusive Design), o que reduz custos de manutenção e evita processos judiciais. *(Fonte: Microsoft Accessibility)*.
+* **Complexidade técnica vs. Semântica:** O aumento da complexidade de frameworks e bibliotecas modernas é uma das principais causas de barreiras digitais, conforme o relatório WebAIM Million, que aponta erros básicos em 96% dos sites. *(Fonte: WebAIM Million )*.
+* **Lacunas na acessibilidade nacional:** Empresas brasileiras analisadas apresentam maturidade parcial; enquanto a JBS RI foca em acessibilidade visual e motora, o PicPay prioriza o atendimento humano em Libras, mas carece de recursos de interface assistiva no app/site. *(Fonte: RIJBS PICPAY, Pesquisa Acessibilidade Digital - Pedro)*.
 
 ## Ferramentas / Casos / Legislação (Mapa Comparativo)
 
