@@ -39,7 +39,6 @@
 **EqualWeb** EQUALWEB. Soluções em Acessibilidade Digital. Disponível em: [https://www.equalweb.com.br/](https://www.equalweb.com.br/). 
 
 ---
-
 ### **Empresas Analisadas e Inconsistências**
 
 **JBS RI** JBS. Portal de Relações com Investidores: Estrutura de acessibilidade visual. Disponível em: [https://ri.jbs.com.br/](https://ri.jbs.com.br/).  
